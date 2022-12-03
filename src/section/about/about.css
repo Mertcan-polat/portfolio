@@ -1,0 +1,69 @@
+.about__container {
+  display: grid;
+  grid-template-columns: 35% 53%;
+  gap: 12%;
+}
+
+.about__portrait {
+  height: fit-content;
+  max-height: 40rem;
+  transition: var(--transition);
+}
+
+.about__portrait:hover {
+  border-width: 0;
+}
+
+.about_cards {
+  margin: 3rem 0 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.card.about__card {
+  text-align: center;
+}
+
+.about__card-icon {
+  font-size: 1.3rem;
+  color: var(--color-black);
+  border-radius: var(--border-radius-3);
+  margin-inline: auto;
+  padding: 0.6rem;
+  align-items: center;
+  transition: var(--transition);
+}
+
+.card.about__card:hover .about__card-icon {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+.card.about__card h5 {
+  margin: 1rem 0;
+}
+
+.abourt__right p {
+  margin-bottom: 0.8rem;
+}
+
+.abourt__right .btn {
+  margin-top: 2.5rem;
+}
+
+.btn {
+  margin-top: 1rem;
+}
+
+.img__about {
+  height: 250px;
+  width: 250px;
+  margin-top: 1rem;
+  border-radius: 1rem;
+}
+
+.onemlı {
+  margin-bottom: 1rem;
+}
