@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.90cf74ee.css",
+    "main.js": "/portfolio/static/js/main.bd82dcab.js",
+    "static/media/MertcanPolatCv A.pdf": "/portfolio/static/media/MertcanPolatCv A.89ac2385a5e25f984359.pdf",
+    "static/media/mertcan.jpg": "/portfolio/static/media/mertcan.9eee48f57df6f7fa6b1e.jpg",
+    "static/media/mertcann.jpg": "/portfolio/static/media/mertcann.50b2aa9fb760b6586968.jpg",
+    "static/media/kirk.jpg": "/portfolio/static/media/kirk.8e9e39b0ef266a5dccfa.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.90cf74ee.css.map": "/portfolio/static/css/main.90cf74ee.css.map",
+    "main.bd82dcab.js.map": "/portfolio/static/js/main.bd82dcab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cf74ee.css",
+    "static/js/main.bd82dcab.js"
+  ]
+}
